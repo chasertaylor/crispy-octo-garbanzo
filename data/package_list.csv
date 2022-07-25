@@ -1,0 +1,140 @@
+Package,LibPath,Version,Priority,Built
+askpass,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.1,NA,4.2.1
+assertthat,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.2.1,NA,4.2.1
+backports,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.4.1,NA,4.2.0
+base64enc,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.1-3,NA,4.2.0
+bit,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,4.0.4,NA,4.2.1
+bit64,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,4.0.5,NA,4.2.1
+blob,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.2.3,NA,4.2.1
+broom,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.0,NA,4.2.1
+bslib,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.4.0,NA,4.2.1
+cachem,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.6,NA,4.2.1
+callr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,3.7.1,NA,4.2.1
+cellranger,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.1.0,NA,4.2.1
+cli,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,3.3.0,NA,4.2.1
+clipr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.8.0,NA,4.2.1
+colorspace,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.0-3,NA,4.2.1
+cpp11,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.4.2,NA,4.2.1
+crayon,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.5.1,NA,4.2.1
+credentials,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.3.2,NA,4.2.1
+curl,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,4.3.2,NA,4.2.1
+data.table,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.14.2,NA,4.2.1
+DBI,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.1.3,NA,4.2.1
+dbplyr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.2.1,NA,4.2.1
+desc,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.4.1,NA,4.2.1
+digest,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.6.29,NA,4.2.1
+dplyr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.9,NA,4.2.1
+dtplyr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.2.1,NA,4.2.1
+ellipsis,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.3.2,NA,4.2.1
+evaluate,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.15,NA,4.2.1
+fansi,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.3,NA,4.2.1
+farver,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.1.1,NA,4.2.1
+fastmap,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.1.0,NA,4.2.1
+forcats,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.5.1,NA,4.2.1
+fs,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.5.2,NA,4.2.1
+gargle,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.2.0,NA,4.2.1
+generics,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.1.3,NA,4.2.1
+gert,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.6.0,NA,4.2.1
+ggplot2,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,3.3.6,NA,4.2.1
+gh,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.3.0,NA,4.2.1
+gitcreds,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.1.1,NA,4.2.1
+glue,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.6.2,NA,4.2.1
+googledrive,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.0.0,NA,4.2.1
+googlesheets4,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.0,NA,4.2.1
+gtable,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.3.0,NA,4.2.1
+haven,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.5.0,NA,4.2.1
+here,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.1,NA,4.2.1
+highr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.9,NA,4.2.1
+hms,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.1.1,NA,4.2.1
+htmltools,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.5.3,NA,4.2.1
+httr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.4.3,NA,4.2.1
+ids,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.1,NA,4.2.1
+ini,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.3.1,NA,4.2.1
+isoband,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.2.5,NA,4.2.1
+jquerylib,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.1.4,NA,4.2.1
+jsonlite,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.8.0,NA,4.2.1
+knitr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.39,NA,4.2.1
+labeling,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.4.2,NA,4.2.0
+lifecycle,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.1,NA,4.2.1
+lubridate,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.8.0,NA,4.2.1
+magrittr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.0.3,NA,4.2.1
+markdown,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.1,NA,4.2.1
+memoise,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.0.1,NA,4.2.1
+mime,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.12,NA,4.2.0
+modelr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.1.8,NA,4.2.1
+munsell,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.5.0,NA,4.2.1
+openssl,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.0.2,NA,4.2.1
+pillar,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.8.0,NA,4.2.1
+pkgconfig,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.0.3,NA,4.2.1
+prettyunits,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.1.1,NA,4.2.1
+processx,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,3.7.0,NA,4.2.1
+progress,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.2.2,NA,4.2.1
+ps,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.7.1,NA,4.2.1
+purrr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.3.4,NA,4.2.1
+R6,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.5.1,NA,4.2.1
+rappdirs,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.3.3,NA,4.2.1
+RColorBrewer,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.1-3,NA,4.2.0
+readr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.1.2,NA,4.2.1
+readxl,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.4.0,NA,4.2.1
+rematch,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.1,NA,4.2.1
+rematch2,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.1.2,NA,4.2.1
+reprex,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.0.1,NA,4.2.1
+rlang,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.4,NA,4.2.1
+rmarkdown,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.14,NA,4.2.1
+rprojroot,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.0.3,NA,4.2.1
+rstudioapi,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.13,NA,4.2.1
+rvest,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.0.2,NA,4.2.1
+sass,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.4.2,NA,4.2.1
+scales,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.2.0,NA,4.2.1
+selectr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.4-2,NA,4.2.1
+stringi,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.7.8,NA,4.2.1
+stringr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.4.0,NA,4.2.1
+sys,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,3.4,NA,4.2.1
+tibble,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,3.1.8,NA,4.2.1
+tidyr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.2.0,NA,4.2.1
+tidyselect,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.1.2,NA,4.2.1
+tidyverse,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.3.2,NA,4.2.1
+tinytex,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.40,NA,4.2.1
+tzdb,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.3.0,NA,4.2.1
+usethis,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.1.6,NA,4.2.1
+utf8,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.2.2,NA,4.2.1
+uuid,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.1-0,NA,4.2.0
+vctrs,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.4.1,NA,4.2.1
+viridisLite,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.4.0,NA,4.2.1
+vroom,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.5.7,NA,4.2.1
+whisker,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.4,NA,4.2.1
+withr,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.5.0,NA,4.2.1
+xfun,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,0.31,NA,4.2.1
+xml2,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,1.3.3,NA,4.2.1
+yaml,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.3.5,NA,4.2.0
+zip,C:/Users/chase_taylor/AppData/Local/R/win-library/4.2,2.2.0,NA,4.2.1
+base,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+boot,C:/Program Files/R/R-4.2.1/library,1.3-28,recommended,4.2.1
+class,C:/Program Files/R/R-4.2.1/library,7.3-20,recommended,4.2.1
+cluster,C:/Program Files/R/R-4.2.1/library,2.1.3,recommended,4.2.1
+codetools,C:/Program Files/R/R-4.2.1/library,0.2-18,recommended,4.2.1
+compiler,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+datasets,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+foreign,C:/Program Files/R/R-4.2.1/library,0.8-82,recommended,4.2.1
+graphics,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+grDevices,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+grid,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+KernSmooth,C:/Program Files/R/R-4.2.1/library,2.23-20,recommended,4.2.1
+lattice,C:/Program Files/R/R-4.2.1/library,0.20-45,recommended,4.2.1
+MASS,C:/Program Files/R/R-4.2.1/library,7.3-57,recommended,4.2.1
+Matrix,C:/Program Files/R/R-4.2.1/library,1.4-1,recommended,4.2.1
+methods,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+mgcv,C:/Program Files/R/R-4.2.1/library,1.8-40,recommended,4.2.1
+nlme,C:/Program Files/R/R-4.2.1/library,3.1-157,recommended,4.2.1
+nnet,C:/Program Files/R/R-4.2.1/library,7.3-17,recommended,4.2.1
+parallel,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+rpart,C:/Program Files/R/R-4.2.1/library,4.1.16,recommended,4.2.1
+spatial,C:/Program Files/R/R-4.2.1/library,7.3-15,recommended,4.2.1
+splines,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+stats,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+stats4,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+survival,C:/Program Files/R/R-4.2.1/library,3.3-1,recommended,4.2.1
+tcltk,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+tools,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
+translations,C:/Program Files/R/R-4.2.1/library,4.2.1,NA,4.2.1
+utils,C:/Program Files/R/R-4.2.1/library,4.2.1,base,4.2.1
